@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+.venv/Lib
+# 忽略常见的图片文件格式
+*.jpg
+*.png
+*.txt
+*.log
+all_image/
